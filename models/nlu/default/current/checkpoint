@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Untitled Folder\\hr\\Recruitment_Bot2\\./models/nlu\\default\\current\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "D:\\Untitled Folder\\hr\\Recruitment_Bot2\\./models/nlu\\default\\current\\intent_classifier_tensorflow_embedding.ckpt"
